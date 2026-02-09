@@ -9,7 +9,7 @@ I developed a hospital readmission calculator with 70% accuracy utilzing machine
 * PowerBI
 
 ### Data:
-* ![Link to Data](https://www.kaggle.com/datasets/ahmedwadood/hospital-readmission/code)
+* [Link to Data](https://www.kaggle.com/datasets/ahmedwadood/hospital-readmission/code)
 
 ---
 ### Repository Information 📄:
