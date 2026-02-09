@@ -8,6 +8,9 @@ I developed a hospital readmission calculator with 70% accuracy utilzing machine
 * SQL/DB SQLite
 * PowerBI
 
+### Data:
+* ![Link to Data](https://www.kaggle.com/datasets/ahmedwadood/hospital-readmission/code)
+
 ---
 ### Repository Information 📄:
 This repository includes 2 files: README.md and Hospital Readmissions.ipynb
