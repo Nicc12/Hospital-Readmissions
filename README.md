@@ -13,6 +13,7 @@ I developed a hospital readmission calculator with 70% accuracy utilzing machine
 
 ---
 ### Repository Information 📄:
-This repository includes 2 files: README.md and Hospital Readmissions.ipynb
+This repository includes 3 files: README.md, Hospital Readmissions.ipynb, and HospitalReadmissions.sql
 * READ.md is what you are reading now and explains information associated with the project.
 * Hospital Readmissions.ipynb includes the code associate with creator of 70% accurate readmission calculator and python analyis
+* HospitalReadmissions.sql contains the sql querys ran to determine key insights
