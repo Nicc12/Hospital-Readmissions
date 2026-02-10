@@ -17,9 +17,6 @@
 
 **Methology**: I preformed an interative model selection process, comparing Multiple Logistic Regression, Random Forests, and GXBoosting utilizing multiple dataset alterations. 
 
-### Data:
-* [Link to Data](https://www.kaggle.com/datasets/ahmedwadood/hospital-readmission/code)
-
 ---
 ### Repository Information 📄:
 This repository includes 3 files: README.md, Hospital Readmissions.ipynb, and HospitalReadmissions.sql
@@ -29,3 +26,7 @@ This repository includes 3 files: README.md, Hospital Readmissions.ipynb, and Ho
 
 ---
 Research Limitations & Omitted Variables: As the data seemed to be inconsistent patient to patient, a value of 0 for categories such as HeartRateMean often indicated a lack of record for said patients. Causing issues not only in the training of a model, but also in the test of said model to determine accuracy. When corrected the data lacked the ability to be significant in number of observations, hence the analysis and prediction was still run with the transparency with inconsistency. 
+
+### Data:
+* [Link to Data](https://www.kaggle.com/datasets/ahmedwadood/hospital-readmission/code)
+
