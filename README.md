@@ -8,7 +8,7 @@
     1. Age: How old a patient is
     2. ChronicDiseaseCount: The number of disease a patients have that are continous.
        
-### Tech & Methods ⚙️:
+### Tech & Methods ⚙️
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python%20-%20blue?style=for-the-badge&logo=Python&color=gold) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Static Badge](https://img.shields.io/badge/Machine%20Learning%20-%20blue?style=for-the-badge)
 * Python/JuypterNotebook
@@ -18,7 +18,7 @@
 **Methology**: I preformed an interative model selection process, comparing Multiple Logistic Regression, Random Forests, and GXBoosting utilizing multiple dataset alterations. 
 
 ---
-### Repository Information 📄:
+### Repository Information 📄
 This repository includes 3 files: README.md, Hospital Readmissions.ipynb, and HospitalReadmissions.sql
 * READ.md is what you are reading now and explains information associated with the project.
 * Hospital Readmissions.ipynb includes the code associate with creator of 70% accurate readmission calculator and python analyis
