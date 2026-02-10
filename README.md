@@ -1,8 +1,8 @@
 # Hospital Readmissions Analysis, Predictor, and Visualization 🏥 
 
-Project objective: To develop a robust machine learning predictor for readmission risk among hospital patients. 
+**Project objective**: To develop a robust machine learning predictor for readmission risk among hospital patients. 
 
-Methology: I preformed an interative model selection process, comparing Multiple Logistic Regression, Random Forests, and GXBoosting utilizing multiple dataset alterations. 
+**Methology**: I preformed an interative model selection process, comparing Multiple Logistic Regression, Random Forests, and GXBoosting utilizing multiple dataset alterations. 
 
 * Performance: Accuracy was limited to  70% with the current dataset
   
