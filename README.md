@@ -2,8 +2,6 @@
 
 **Project objective**: To develop a robust machine learning predictor for readmission risk among hospital patients. 
 
-**Methology**: I preformed an interative model selection process, comparing Multiple Logistic Regression, Random Forests, and GXBoosting utilizing multiple dataset alterations. 
-
 * Performance: Accuracy was limited to  70% with the current dataset
   
 * Top predictors: Using P-value analysis (p<0.01) and feature importance, two variables were identified as primary drivers of risk:
@@ -16,6 +14,8 @@
 * Python/JuypterNotebook
 * SQL/DB SQLite
 * PowerBI
+
+**Methology**: I preformed an interative model selection process, comparing Multiple Logistic Regression, Random Forests, and GXBoosting utilizing multiple dataset alterations. 
 
 ### Data:
 * [Link to Data](https://www.kaggle.com/datasets/ahmedwadood/hospital-readmission/code)
