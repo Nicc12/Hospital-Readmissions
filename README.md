@@ -4,7 +4,7 @@
 
 **Key Findings**: 
 * The random forest model out preformed the logistic regression model on prediction power of Readmission patients while maintaining an overall accuracy of 73%
-* SerumSodium held importance in all model conducted
+* SerumSodium held importance in all models conducted
 * Hemoglobin and CardiacTroponin also held importance, altering between 2nd and 3rd on logistic models
 * BetaBlockers took 2nd in random forest importance
 
@@ -16,7 +16,7 @@
 * SQL/DB SQLite
 * PowerBI
 
-**Methodology**: I performed an iterative model selection process, comparing Multiple Logistic Regression,  and Random Forests, utilizing multiple dataset alterations. 
+**Methodology**: I performed an iterative model selection process, comparing Multiple Logistic Regression and Random Forests, utilizing multiple dataset alterations. 
 
 **Research Limitations & Omitted Variables**: With alteration in model types, accuracy remained at around 73% with no improvement. Improvements were conducted to primarily improve accuracy of classifying readmissions, yet each model had trade offs within precision. Additional medication types could be linked to illnesses not measured, while certain illnesses within patients could also constitute constant treatment. 
 
@@ -24,8 +24,8 @@
 ### Repository Information 📄
 This repository includes 3 files: README.md, ReadmissionQuery.sql, and HospitalReadmissionPrediction.ipynb
 * READ.md is what you are reading now and explains information associated with the project.
-* HospitalReadmissionPrediction.ipynb includes the code associate with creator of 73% accurate readmission calculator and python analyis
-* ReadmissionQuery.sql contains the sql querys ran to determine key insights
+* HospitalReadmissionPrediction.ipynb includes the code associate with creator of 73% accurate readmission calculator and python analyis.
+* ReadmissionQuery.sql contains the sql querys ran to determine key insights.
 
 ---
 ### Data 🗃️ 
