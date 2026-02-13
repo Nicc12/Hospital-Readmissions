@@ -3,7 +3,7 @@
 **Project objective**: To develop a robust machine learning predictor for readmission risk among hospital patients. The projects goal is to help hospitals identify high-risk patients and implement preventative care strategies that reduce readmission rates and promote long-term wellness.
 
 **Key Findings**: 
-* The random forest model out preformed the logistic regression model on prediction power of Readmission patients while maintain overall accuracy of 73%
+* The random forest model out preformed the logistic regression model on prediction power of Readmission patients while maintaining an overall accuracy of 73%
 * SerumSodium held importance in all model conducted
 * Hemoglobin and CardiacTroponin also held importance, altering between 2nd and 3rd on logistic models
 * BetaBlockers took 2nd in random forest importance
