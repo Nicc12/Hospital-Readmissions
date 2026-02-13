@@ -28,7 +28,7 @@ This repository includes 3 files: README.md, Hospital Readmissions.ipynb, and Ho
 
 ---
 ### Data 🗃️ 
-Hospital readmission data from Kaggle, including 57 measures of health for 8481 patients. 
+Hospital readmission data from Kaggle, including 57 measures of health for 8481 observations/events. 
 
 [Link to Data](https://www.kaggle.com/datasets/ahmedwadood/hospital-readmission/code)
 
