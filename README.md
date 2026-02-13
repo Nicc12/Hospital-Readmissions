@@ -1,7 +1,6 @@
 # Hospital Readmissions Analysis, Predictor, and Visualization 🏥 
 
-**Project objective**: To develop a robust machine learning predictor for readmission risk among hospital patients. Goal to assist hospitals in identifying those at risk of returning to the hospital to keep people healthy and out living away from the hospital. 
-
+**Project objective**: To develop a robust machine learning predictor for readmission risk among hospital patients. The projects goal is to help hospitals identify high-risk patients and implement preventative care strategies that reduce readmission rates and promote long-term wellness.
 **Key Findings**: 
 * The random forest model out preformed the logistic regression model on prediction power of Readmission patients while maintain overall accuracy of 73%
 * SerumSodium held importance in all model conducted
