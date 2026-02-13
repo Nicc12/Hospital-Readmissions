@@ -23,10 +23,10 @@ Research Limitations & Omitted Variables: With alteration in model types, accura
 
 ---
 ### Repository Information 📄
-This repository includes 3 files: README.md, Hospital Readmissions.ipynb, and HospitalReadmissions.sql
+This repository includes 3 files: README.md, ReadmissionQuery.sql, and HospitalReadmissionPrediction.ipynb
 * READ.md is what you are reading now and explains information associated with the project.
-* Hospital Readmissions.ipynb includes the code associate with creator of 70% accurate readmission calculator and python analyis
-* HospitalReadmissions.sql contains the sql querys ran to determine key insights
+* HospitalReadmissionPrediction.ipynb includes the code associate with creator of 73% accurate readmission calculator and python analyis
+* ReadmissionQuery.sql contains the sql querys ran to determine key insights
 
 ---
 ### Data 🗃️ 
