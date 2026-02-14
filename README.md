@@ -1,6 +1,6 @@
 # Hospital Readmissions Analysis, Predictor, and Visualization 🏥 
 
-Utilizing python, sql, and powerBI I created a random forest predictor of hospital readmissions that held 73% accuracy, Identified key varaibles in the prediction of readmissions, and present insights on a powerBI dashboard.
+Utilizing python, sql, and powerBI I created a random forest predictor of hospital readmissions that held 73% accuracy, Identified key variables in the prediction of readmissions, and present insights on a powerBI dashboard.
        
 ### Tech & Methods ⚙️
 
