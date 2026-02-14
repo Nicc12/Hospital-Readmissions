@@ -22,10 +22,12 @@
 
 ---
 ### Repository Information 📄
-This repository includes 3 files: README.md, ReadmissionQuery.sql, and HospitalReadmissionPrediction.ipynb
+This repository includes 5 files: README.md, ReadmissionQuery.sql, HospitalReadmissionPrediction.ipynb, Dashboard_Readmission.pbix, and Dashboard_Readmission.pdf.
 * READ.md is what you are reading now and explains information associated with the project.
 * HospitalReadmissionPrediction.ipynb includes the code associate with creator of 73% accurate readmission calculator and python analyis.
 * ReadmissionQuery.sql contains the sql querys ran to determine key insights.
+* Dashboard_Readmission.pbix is the powerBI dashboard that displays key insights.
+* Dashboard_Readmission.pdf is the pdf version of the dashboard that displays key insights.
 
 ---
 ### Data 🗃️ 
