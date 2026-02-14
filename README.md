@@ -9,10 +9,6 @@ Utilizing python, sql, and powerBI I created a random forest predictor of hospit
 * SQL/DB SQLite
 * PowerBI
 
-**Methodology**: I performed an iterative model selection process, comparing Multiple Logistic Regression and Random Forests, utilizing multiple dataset alterations. 
-
-**Research Limitations & Omitted Variables**: With alteration in model types, accuracy remained at around 73% with no improvement. Improvements were conducted to primarily improve accuracy of classifying readmissions, yet each model had trade offs within precision. Additional medication types could be linked to illnesses not measured, while certain illnesses within patients could also constitute constant treatment. 
-
 ---
 ### Repository Information 📄
 This repository includes 5 files: README.md, ReadmissionQuery.sql, HospitalReadmissionPrediction.ipynb, Dashboard_Readmission.pbix, and Dashboard_Readmission.pdf.
