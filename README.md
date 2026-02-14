@@ -1,5 +1,7 @@
 # Hospital Readmissions Analysis, Predictor, and Visualization 🏥 
 
+Utilizing python, sql, and powerBI I created a random forest predictor of hospital readmissions that held 73% accuracy, Identified key varaibles in the prediction of readmissions, and present insights on a powerBI dashboard.
+
 **Project objective**: To develop a robust machine learning predictor for readmission risk among hospital patients. The project's goal is to help hospitals identify high-risk patients and implement preventative care strategies that reduce readmission rates and promote long-term wellness.
 
 **Key Findings**: 
